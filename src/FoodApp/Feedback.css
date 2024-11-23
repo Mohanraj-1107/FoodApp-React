@@ -1,0 +1,45 @@
+form 
+{
+    margin-left:10%;
+    border:2px solid #ccc;
+    align-items: center;
+    justify-content: center;
+    padding:3%;
+    border-radius: 10px;
+    margin-right: 8%;
+    background-color:white;
+}
+form label input{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2%;
+    width:40%;
+    padding: 1%;
+    
+}
+form label{
+    color:royalblue;
+}
+form input{
+    outline: none;
+}
+input[type=textarea]
+{
+    height: 100px;
+    width:40%;
+}
+form button{
+    padding:1% 3%;
+    background-color: royalblue;
+    color: white;
+    border: none;
+    margin-top:2%;
+    border-radius: 5%;
+}
+form button:hover{
+    background-color: rgb(8, 29, 94);
+    cursor: pointer;
+}
+h5{
+    color:royalblue;
+}

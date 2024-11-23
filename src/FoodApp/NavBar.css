@@ -1,0 +1,31 @@
+.navigation
+{
+    width:100%;
+    justify-content: space-between;
+    height:10%;
+    background-color:black;
+    color:white;
+    display:flex;
+}
+.navigation ul
+{
+    display:flex;
+    list-style-type: none;
+    text-decoration: none;
+    margin-right: 2%;
+}
+.navigation ul li{
+    margin:10px;
+}
+.navigation a{
+    text-decoration: none;
+    color:white;
+}
+.navigation  a:hover{
+    color:rgb(212, 206, 206);
+}
+.navigation h4{
+    margin-left: 1%;
+}
+
+

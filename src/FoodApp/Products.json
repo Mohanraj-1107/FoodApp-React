@@ -1,0 +1,170 @@
+[
+{
+        "id": 1,
+        "name": "Margherita Pizza",
+        "description": "Classic cheese pizza with tomato sauce and mozzarella",
+        "quantity": 2,
+        "price": 8.99,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 2,
+        "name": "Pepperoni Pizza",
+        "description": "Pepperoni, cheese, and tomato sauce",
+        "quantity": 1,
+        "price": 9.99,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 3,
+        "name": "BBQ Chicken Pizza",
+        "description": "Grilled chicken, BBQ sauce, and mozzarella",
+        "quantity": 1,
+        "price": 8.99,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 4,
+        "name": "Veggie Delight Pizza",
+        "description": "Loaded with bell peppers, olives, and mushrooms",
+        "quantity": 1,
+        "price": 9.49,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 5,
+        "name": "Chicken Burger",
+        "description": "Grilled chicken with lettuce, tomato, and cheese",
+        "quantity": 2,
+        "price": 6.99,
+        "imageUrl":"https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 6,
+        "name": "Beef Burger",
+        "description": "Juicy beef patty with pickles, cheese, and sauce",
+        "quantity": 1,
+        "price": 7.99,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 7,
+        "name": "Caesar Salad",
+        "description": "Romaine, croutons, and Caesar dressing",
+        "quantity": 1,
+        "price": 5.99,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 8,
+        "name": "Greek Salad",
+        "description": "Mixed greens, feta, olives, and tomatoes",
+        "quantity": 1,
+        "price": 6.49,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 9,
+        "name": "Garlic Bread",
+        "description": "Crispy garlic bread with herbs",
+        "quantity": 3,
+        "price": 3.99,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 10,
+        "name": "Spaghetti Carbonara",
+        "description": "Pasta with creamy sauce, bacon, and cheese",
+        "quantity": 1,
+        "price": 8.99,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 11,
+        "name": "Chocolate Cake",
+        "description": "Rich chocolate cake with icing",
+        "quantity": 1,
+        "price": 4.99,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 12,
+        "name": "Cheesecake",
+        "description": "Classic cheesecake with a graham cracker crust",
+        "quantity": 1,
+        "price": 5.99,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 13,
+        "name": "Ice Cream Sundae",
+        "description": "Vanilla ice cream with chocolate and nuts",
+        "quantity": 2,
+        "price": 3.99,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 14,
+        "name": "French Fries",
+        "description": "Crispy golden french fries",
+        "quantity": 1,
+        "price": 2.99,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 15,
+        "name": "Chicken Wings",
+        "description": "Spicy buffalo wings with dip",
+        "quantity": 1,
+        "price": 7.49,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 16,
+        "name": "Fish and Chips",
+        "description": "Crispy battered fish with fries",
+        "quantity": 1,
+        "price": 9.99,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 17,
+        "name": "Chicken Wrap",
+        "description": "Grilled chicken with veggies in a tortilla",
+        "quantity": 1,
+        "price": 5.99,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 18,
+        "name": "Milkshake",
+        "description": "Chocolate milkshake with whipped cream",
+        "quantity": 1,
+        "price": 4.49,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 19,
+        "name": "Tacos",
+        "description": "Soft tacos with beef, lettuce, and cheese",
+        "quantity": 1,
+        "price": 6.99,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 20,
+        "name": "Sushi Roll",
+        "description": "California roll with crab and avocado",
+        "quantity": 1,
+        "price": 8.49,
+        "imageUrl": "https://th.bing.com/th/id/OIP.IuiDuwoWmTUj4kIZrM4ikQHaFV?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 21,
+        "name": "Nachos",
+        "description": "Tortilla chips with cheese and salsa",
+        "quantity": 1,
+        "price": 5.49,
+        "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90"
+      }
+    ]

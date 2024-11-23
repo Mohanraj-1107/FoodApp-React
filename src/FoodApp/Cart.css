@@ -1,0 +1,36 @@
+.cartContainer
+{
+    display: flex;
+    flex-direction: row;
+    width:90%;
+    margin:2%;
+    border:2px solid #ccc;
+    gap:2%;
+    border-radius:10px;
+    margin-left: 5%;
+    background-color: #faf7f7;
+}
+.images1 img
+{
+    width:150px;
+    height:150px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.cartDetails 
+{
+   margin-top:1%;
+   width:50%;
+}
+.cartDetails button{
+    padding:2% 4%;
+    border-radius: 8px;
+    border: none;
+    background-color: orangered;
+    color: white;
+    margin-left: 2%;
+}
+.cartDetails button:hover{
+    background-color: rgb(131, 39, 5);
+    cursor:pointer;
+}
